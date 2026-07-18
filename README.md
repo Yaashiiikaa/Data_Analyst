@@ -1,2 +1,2 @@
 # Data_Analyst
-learning something new which is intresting
+learning something new which is interesting
