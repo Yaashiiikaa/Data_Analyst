@@ -15,6 +15,6 @@ This repository documents my journey to becoming a Data Analyst.
 
 ## Progress
 
-- ✅ Day 1 - Python Basics
+- ✅ Day 1 - Python Basics,pandas basics,sql basics
 - ✅ Day 2 - Operators and Conditions
 - ⏳ Day 3 - Loops
