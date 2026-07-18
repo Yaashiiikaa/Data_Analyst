@@ -1,0 +1,11 @@
+a="Yahsika"
+left=0
+right=len(a)-1
+is_palindrome = True
+while(right>left):
+    if(a[right]!=a[left]):
+       is_palindrome = False
+       break
+    left+=1
+    right-=1
+print(is_palindrome)
